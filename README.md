@@ -20,7 +20,7 @@ Keywords: [ gantt, javascript gantt, gantt chart,js gantt,vue gantt,project mana
 ![preview gif](https://github.com/neuronetio/gantt-elastic/raw/master/grab-scroll.gif)
 
 ## Gantt-elastic
-
+甘特图
 is a vue component but it could be used in other frameworks or even with jQuery (vue is kind of elastic and lightweight framework).
 
 ### If you want more activity in this repo give it a :star:
